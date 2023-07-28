@@ -55,14 +55,14 @@
          </div>
 
      </div>
-        <footer class="w-full p-4 items-center justify-center text-[#A9A9A9] text-sm">
-            <p class="text-center">
-            created by 
-                <a href="" class="font-sans font-bold ">joregesosa</a>
-                -
-                <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">devChallenges.io</a>
-            </p>
-        </footer>
+     <footer class="w-full p-4 items-center justify-center text-[#A9A9A9] text-sm">
+         <p class="text-center">
+             created by
+             <a href="https://github.com/Joregesosa/team_app" class="font-sans font-bold ">joregesosa</a>
+             -
+             <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">devChallenges.io</a>
+         </p>
+     </footer>
      <script>
          const moon = document.querySelector('#moon');
          const sun = document.querySelector('#sun');
