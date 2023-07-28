@@ -3,7 +3,8 @@
     "tailwindcss": "^3.3.3"
   },
   "scripts": {
-    "estilos": "npx tailwindcss -i input.css -o ./dist/output.css --watch"
+    "styles": "npx tailwindcss -i input.css -o ./dist/output.css --watch",
+    "buildStyles":"npx tailwindcss -o dist/output.css --minify"
   }
    
 }
